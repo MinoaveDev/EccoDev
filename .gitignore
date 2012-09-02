@@ -6,6 +6,7 @@
 *.pdb
 *.lik
 *.sdf
+*.obj
 
 # Compiled Dynamic libraries
 *.so
