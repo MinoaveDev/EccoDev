@@ -2,6 +2,10 @@
 *.slo
 *.lo
 *.o
+*.exe
+*.pdb
+*.lik
+*.sdf
 
 # Compiled Dynamic libraries
 *.so
