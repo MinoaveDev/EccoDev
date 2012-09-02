@@ -1,0 +1,5 @@
+add_subdirectory(Common)
+add_subdirectory(LoginServer)
+add_subdirectory(WorldServer)
+add_subdirectory(ChannelServer)
+add_subdirectory(CashServer)
