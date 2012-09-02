@@ -7,6 +7,9 @@
 *.lik
 *.sdf
 *.obj
+*.suo
+*.opensdf
+*.ipch
 
 # Compiled Dynamic libraries
 *.so
